@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-tracker-project/static/css/main.9207fa33.chunk.css",
+    "main.js": "/money-tracker-project/static/js/main.ee08dadd.chunk.js",
+    "main.js.map": "/money-tracker-project/static/js/main.ee08dadd.chunk.js.map",
+    "runtime-main.js": "/money-tracker-project/static/js/runtime-main.fb652fb3.js",
+    "runtime-main.js.map": "/money-tracker-project/static/js/runtime-main.fb652fb3.js.map",
+    "static/js/2.8491a0cf.chunk.js": "/money-tracker-project/static/js/2.8491a0cf.chunk.js",
+    "static/js/2.8491a0cf.chunk.js.map": "/money-tracker-project/static/js/2.8491a0cf.chunk.js.map",
+    "index.html": "/money-tracker-project/index.html",
+    "precache-manifest.99ffdb1b47da7789d0fa68601c11176b.js": "/money-tracker-project/precache-manifest.99ffdb1b47da7789d0fa68601c11176b.js",
+    "service-worker.js": "/money-tracker-project/service-worker.js",
+    "static/css/main.9207fa33.chunk.css.map": "/money-tracker-project/static/css/main.9207fa33.chunk.css.map",
+    "static/js/2.8491a0cf.chunk.js.LICENSE.txt": "/money-tracker-project/static/js/2.8491a0cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb652fb3.js",
+    "static/js/2.8491a0cf.chunk.js",
+    "static/css/main.9207fa33.chunk.css",
+    "static/js/main.ee08dadd.chunk.js"
+  ]
+}
