@@ -1,0 +1,21 @@
+.categories-content__table {
+  width: 1250px;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.categories-content__table-head {
+  border: 2px solid #d6dce1;
+}
+
+.categories-content__table-button {
+  background: transparent;
+  padding-top: 70px;
+  padding-left: 100px;
+}
+
+.table-icon {
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
